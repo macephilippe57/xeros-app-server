@@ -1,0 +1,802 @@
+[
+  {
+    "name": "hero_lead_magnet",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "7 JOURS ETSY IA",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Guide gratuit pour lancer une boutique à 6 chiffres",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "TÉLÉCHARGER GRATUITEMENT",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20pink%20color%20theme%2C%20raccoon%20reading%20a%20tablet%20with%20Etsy%20shop%20analytics%2C%20cozy%20cottagecore%20office%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "hero_checklist",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "CHECKLIST 7 JOURS",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Une action par jour. Pas plus.",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "RECEVOIR LA CHECKLIST",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20green%20color%20theme%2C%20checklist%20floating%20with%20raccoon%20checking%20boxes%2C%20cozy%20aesthetic%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "hero_prompts",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "50 PROMPTS IA",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Pour designs, titres, descriptions, Pinterest",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "RÉCUPÉRER LES PROMPTS",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20purple%20color%20theme%2C%20futuristic%20AI%20brain%20generating%20t-shirt%20designs%2C%20neon%20accents%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "day1_fondations",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "JOUR 1 : FONDATIONS",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Niche, logo, identité, profil Etsy",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "COMMENCER JOUR 1",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20blue%20color%20theme%2C%20raccoon%20architect%20building%20a%20shop%20foundation%2C%20cute%20illustration%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "day2_design",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "JOUR 2 : DESIGN IA",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Générer 10 designs en 1 heure",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "VOIR LA MÉTHODE",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20orange%20color%20theme%2C%20raccoon%20using%20AI%20image%20generator%2C%20screens%20and%20sparkles%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "day3_seo",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "JOUR 3 : SEO ETSY",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Titres, tags, descriptions qui convertissent",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "BOOSTER SON SEO",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20teal%20color%20theme%2C%20raccoon%20detective%20with%20magnifying%20glass%20over%20Etsy%20search%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "day4_lancement",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "JOUR 4 : LANCEMENT",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Publier 10 listings actives",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "LANCER MA BOUTIQUE",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20red%20color%20theme%2C%20raccoon%20launching%20rockets%20made%20of%20t-shirts%2C%20celebration%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "day5_pinterest",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "JOUR 5 : PINTEREST",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Trafic gratuit automatisé",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "AUTOMATISER PINTEREST",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20pink%20color%20theme%2C%20raccoon%20pinning%20ideas%20on%20giant%20Pinterest%20board%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "day6_conversion",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "JOUR 6 : CONVERSION",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Bundles, promos, personnalisation",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "AUGMENTER LES VENTES",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20gold%20color%20theme%2C%20raccoon%20shop%20owner%20with%20price%20tags%20and%20gift%20bundles%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "day7_scale",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "JOUR 7 : SCALE",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Passez en mode système IA",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "SCALER AVEC L’IA",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20indigo%20color%20theme%2C%20raccoon%20CEO%20at%20command%20center%20with%20multiple%20dashboards%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "result_30days",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "OBJECTIF 30 JOURS",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "500 vues · 25 favoris · 3-5 ventes",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "JE REJOINS LE DÉFI",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20emerald%20color%20theme%2C%20raccoon%20celebrating%20with%20trophy%20and%20growth%20chart%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "result_no_stock",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "SANS STOCK",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Print-on-demand + IA = boutique 100% automatisable",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "DÉCOUVRIR LE SYSTÈME",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20cyan%20color%20theme%2C%20raccoon%20in%20warehouse%20with%20floating%20packages%20and%20print%20machines%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "result_free",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "GRATUIT",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "40 pages + checklist + 50 prompts IA",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "TÉLÉCHARGER",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20rose%20color%20theme%2C%20raccoon%20offering%20a%20gift%20box%20labeled%20FREE%2C%20cheerful%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/7jours-etsy-ia",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "tool_shopify",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "SHOPIFY 3 JOURS GRATUITS",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Puis 1€/mois pendant 3 mois",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "CRÉER MA BOUTIQUE",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20green%20color%20theme%2C%20Shopify%20logo%20style%20with%20raccoon%20shopping%20bag%2C%20clean%20e-commerce%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "http://shopify.pxf.io/xLARjk",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "tool_autods",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "AUTODS 30 JOURS POUR 1€",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Automatisez votre dropshipping",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "ESSAYER AUTODS",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20blue%20color%20theme%2C%20AutoDS%20dashboard%20with%20raccoon%20robot%20automating%20tasks%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://www.autods.com/0bc0",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "tool_legalplace",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "MICRO-ENTREPRISE -25%",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Code THEO25 chez LegalPlace",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "CRÉER MON ENTREPRISE",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20navy%20color%20theme%2C%20raccoon%20signing%20documents%20with%20stamp%2C%20professional%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://c3po.link/Qds9fQBf3w",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "tool_arcads",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "ARCADS UGC VIDÉO",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Créez des vidéos pub avec l’IA",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "TESTER ARCADS",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20violet%20color%20theme%2C%20raccoon%20filming%20video%20ad%20with%20AI%20camera%2C%20studio%20lights%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://arcads.ai/?via=fg",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "tool_smartbundle",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "SMARTBUNDLE -30%",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "À vie avec le code THEO",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "ACTIVER LA RÉDUCTION",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20orange%20color%20theme%2C%20raccoon%20bundling%20products%20with%20discount%20tag%2C%20shopping%20theme%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://app-bundle.arkanse.fr/public/affiliation?fpr=fg",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "app_android",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "XEROS ANDROID",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Assistant IA vocal pour Etsy & Shopify",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "TÉLÉCHARGER L’APK",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20slate%20color%20theme%2C%20raccoon%20holding%20smartphone%20with%20XEROS%20app%20interface%2C%20futuristic%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://deep-foxes-hope.loca.lt/static/xeros-app-debug.apk",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  },
+  {
+    "name": "telegram_bot",
+    "dimensions": {
+      "width": 1000,
+      "height": 1500
+    },
+    "text_layers": {
+      "title": {
+        "text": "XEROS TELEGRAM",
+        "font": "Bold Sans",
+        "size": 72,
+        "color": "#ffffff",
+        "y": 120
+      },
+      "subtitle": {
+        "text": "Commandez votre boutique depuis Telegram",
+        "font": "Regular Sans",
+        "size": 36,
+        "color": "#e4e4e7",
+        "y": 240
+      },
+      "cta": {
+        "text": "AJOUTER @xeros_jarvis_bot",
+        "font": "Bold Sans",
+        "size": 44,
+        "color": "#ffffff",
+        "y": 1320,
+        "bg": "#ff4d6d"
+      }
+    },
+    "image_prompt": "https://image.pollinations.ai/prompt/Pinterest%20pin%20vertical%20design%2C%20sky%20color%20theme%2C%20raccoon%20using%20Telegram%20chat%20bubbles%2C%20automation%20icons%2C%20Pinterest%20pin%20design%2C%20clean%20modern%20aesthetic%2C%20bold%20typography%2C%20dark%20gradient%20background%2C%20centered%20visual%2C%20minimalist%2C%20high%20contrast%2C%20no%20small%20text%2C%20professional%20e-commerce%20look?width=1000&height=1500&nologo=true&seed=42",
+    "affiliate_url": "https://t.me/xeros_jarvis_bot",
+    "board_suggestions": [
+      "Etsy Tips",
+      "AI Business",
+      "Print on Demand",
+      "Side Hustle 2026",
+      "Etsy Marketing"
+    ]
+  }
+]

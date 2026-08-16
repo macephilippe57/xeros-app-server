@@ -1,0 +1,20 @@
+# XEROS App Server — systemd user service
+[Unit]
+Description=XEROS Android App API Bridge (with Telegram sync)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/opt/data/xeros-app-server/.venv/bin/python /opt/data/xeros-app-server/main.py
+WorkingDirectory=/opt/data/xeros-app-server
+Environment=HERMES_HOME=/opt/data
+Environment=XEROS_API_SECRET=xeros-godmode-2024
+EnvironmentFile=/opt/data/.env
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target
