@@ -24,3 +24,5 @@ google_*.json
 google_*.txt
 github_token.txt
 gmail_app_password.txt
+
+xeros_dashboard
